@@ -20,14 +20,6 @@ The app fetches live weather data from [OpenWeatherMap API](https://openweatherm
 - 📅 Localized date/time formatting with **Moment.js**
 - 🔄 Language switch button (Arabic ↔ English)
 
----
-
-## 📸 Screenshot
-
-*(Add your app screenshot here once deployed)*  
-Example:
-
-![Weather App Screenshot](./screenshot.png)
 
 ---
 
